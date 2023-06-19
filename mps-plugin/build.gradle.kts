@@ -24,4 +24,9 @@ publishing {
             artifactId = "projectsync-mps-plugin"
         }
     }
+    repositories {
+        github("specificlanguages", rootProject.name) {
+            name = "github"
+        }
+    }
 }
