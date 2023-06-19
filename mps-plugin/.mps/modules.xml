@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/com.specificlanguages.projectsync.buildext/com.specificlanguages.projectsync.buildext.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/com.specificlanguages.projectsync.build/com.specificlanguages.projectsync.build.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/com.specificlanguages.projectsync.logic/com.specificlanguages.projectsync.logic.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
