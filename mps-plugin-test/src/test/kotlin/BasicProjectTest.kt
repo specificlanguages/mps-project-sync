@@ -47,7 +47,7 @@ class BasicProjectTest {
 
         config.addLib(System.getProperty("mps_plugin_dir"))
 
-        return executeWithEnvironmentAndProject(config, EnvironmentKind.MPS, projectDir) { environment, project ->
+        return executeWithEnvironmentAndProject(config, EnvironmentKind.MPS, projectDir) { _, project ->
             val errorCollector = CollectConsumer<IssueKindReportItem>()
             val checker = ModelCheckerBuilder(ModelsExtractorImpl()).createChecker(listOf(NonTypesystemChecker()))
 
