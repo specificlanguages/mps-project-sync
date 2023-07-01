@@ -9,8 +9,6 @@ java {
     targetCompatibility = JavaVersion.VERSION_11
 }
 
-val jackson_version = "2.12.0"
-
 dependencies {
     compileOnly("jakarta.xml.bind:jakarta.xml.bind-api:2.3.3")
     compileOnly("org.jetbrains:annotations:13.+")
