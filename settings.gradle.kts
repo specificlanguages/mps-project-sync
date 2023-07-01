@@ -2,6 +2,7 @@ rootProject.name = "mps-project-sync"
 
 include(":logic")
 include(":mps-plugin")
+include(":mps-plugin-test")
 
 dependencyResolutionManagement {
     repositories {
