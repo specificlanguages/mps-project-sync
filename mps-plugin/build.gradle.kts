@@ -10,7 +10,7 @@ dependencies {
 
 stubs {
     register("logic") {
-        destinationDir.set(file("solutions/com.specificlanguages.projectsync.logic/lib"))
+        destinationDir.set(file("solutions/com.spclngs.projsync.logic/lib"))
         dependency(project(":logic")) {
             isTransitive = false
         }
@@ -21,7 +21,7 @@ publishing {
     publications {
         create<MavenPublication>("mpsPlugin") {
             from(components["mps"])
-            artifactId = "projectsync-mps-plugin"
+            artifactId = "projsync-mps-plugin"
         }
     }
     repositories {

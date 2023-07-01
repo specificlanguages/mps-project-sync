@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model ref="r:682764f9-ae55-4c0f-8223-7e504f7203ea(com.specificlanguages.projectsync.buildext.check)">
+<model ref="r:682764f9-ae55-4c0f-8223-7e504f7203ea(com.spclngs.projsync.buildext.check)">
   <persistence version="9" />
   <languages>
     <use id="7a5dda62-9140-4668-ab76-d5ed1746f2b2" name="jetbrains.mps.lang.typesystem" version="5" />
@@ -17,7 +17,7 @@
     <import index="o3n2" ref="r:26eadcf0-f275-4e90-be37-e4432772a74d(jetbrains.mps.build.util)" />
     <import index="kdzh" ref="r:0353b795-df17-4050-9687-ee47eeb7094f(jetbrains.mps.build.mps.structure)" />
     <import index="3ju5" ref="6ed54515-acc8-4d1e-a16c-9fd6cfe951ea/java:jetbrains.mps.vfs(MPS.Core/)" />
-    <import index="3njg" ref="r:eadca9c5-6cd8-4ad8-84f3-0b28137040d9(com.specificlanguages.projectsync.buildext.structure)" />
+    <import index="3njg" ref="r:eadca9c5-6cd8-4ad8-84f3-0b28137040d9(com.spclngs.projsync.buildext.structure)" />
     <import index="eoo2" ref="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.nio.file(JDK/)" />
     <import index="et5u" ref="6ed54515-acc8-4d1e-a16c-9fd6cfe951ea/java:jetbrains.mps.messages(MPS.Core/)" />
     <import index="wyt6" ref="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.lang(JDK/)" />
@@ -25,7 +25,7 @@
     <import index="33ny" ref="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.util(JDK/)" />
     <import index="kart" ref="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:org.xml.sax(JDK/)" />
     <import index="vpqd" ref="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:javax.xml.parsers(JDK/)" />
-    <import index="gmde" ref="7eb68773-0c91-4dc5-a5a6-0fd3dd31f774/java:com.specificlanguages.projectsync(com.specificlanguages.projectsync.logic/)" />
+    <import index="gmde" ref="7eb68773-0c91-4dc5-a5a6-0fd3dd31f774/java:com.spclngs.projsync(com.spclngs.projsync.logic/)" />
     <import index="7nyy" ref="6ed54515-acc8-4d1e-a16c-9fd6cfe951ea/java:jetbrains.mps.vfs.refresh(MPS.Core/)" />
     <import index="mhfm" ref="3f233e7f-b8a6-46d2-a57f-795d56775243/java:org.jetbrains.annotations(Annotations/)" />
   </imports>
@@ -689,7 +689,7 @@
                   </node>
                 </node>
                 <node concept="2YIFZM" id="1ebdOvY8hRM" role="33vP2m">
-                  <ref role="37wK5l" to="gmde:~CollectModules.collectModuleFiles(java.lang.Object,com.specificlanguages.projectsync.FileOps)" resolve="collectModuleFiles" />
+                  <ref role="37wK5l" to="gmde:~CollectModules.collectModuleFiles(java.lang.Object,com.spclngs.projsync.FileOps)" resolve="collectModuleFiles" />
                   <ref role="1Pybhc" to="gmde:~CollectModules" resolve="CollectModules" />
                   <node concept="37vLTw" id="1ebdOvY8hRN" role="37wK5m">
                     <ref role="3cqZAo" node="6ZbResQ4qGd" resolve="projectDescriptionFile" />

@@ -1,4 +1,4 @@
-package com.specificlanguages.projectsync;
+package com.spclngs.projsync;
 
 import org.jetbrains.annotations.Nullable;
 import org.xml.sax.InputSource;

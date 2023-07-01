@@ -30,7 +30,7 @@ publishing {
     publications {
         create<MavenPublication>("logic") {
             from(components["java"])
-            artifactId = "projectsync-logic"
+            artifactId = "projsync-logic"
         }
     }
 

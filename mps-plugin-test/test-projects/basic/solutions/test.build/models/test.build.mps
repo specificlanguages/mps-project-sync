@@ -4,12 +4,12 @@
   <languages>
     <use id="0cf935df-4699-4e9c-a132-fa109541cba3" name="jetbrains.mps.build.mps" version="7" />
     <use id="798100da-4f0a-421a-b991-71f8c50ce5d2" name="jetbrains.mps.build" version="0" />
-    <use id="4dafe081-e8e5-4580-a546-0ff88688fe77" name="com.specificlanguages.projectsync.buildext" version="0" />
+    <use id="4dafe081-e8e5-4580-a546-0ff88688fe77" name="com.spclngs.projsync.buildext" version="0" />
   </languages>
   <imports />
   <registry>
-    <language id="4dafe081-e8e5-4580-a546-0ff88688fe77" name="com.specificlanguages.projectsync.buildext">
-      <concept id="8055775244081749268" name="com.specificlanguages.projectsync.buildext.structure.BuildAspect_ExternalProjectDescription" flags="ng" index="1qaK7N">
+    <language id="4dafe081-e8e5-4580-a546-0ff88688fe77" name="com.spclngs.projsync.buildext">
+      <concept id="8055775244081749268" name="com.spclngs.projsync.buildext.structure.BuildAspect_ExternalProjectDescription" flags="ng" index="1qaK7N">
         <child id="8055775244081749957" name="path" index="1qaKcy" />
       </concept>
     </language>

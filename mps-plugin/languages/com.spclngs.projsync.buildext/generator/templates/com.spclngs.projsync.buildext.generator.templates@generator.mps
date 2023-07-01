@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model ref="r:d1deba6a-9192-4787-99e2-0f7cd19b27dc(com.specificlanguages.projectsync.buildext.generator.templates@generator)">
+<model ref="r:d1deba6a-9192-4787-99e2-0f7cd19b27dc(com.spclngs.projsync.buildext.generator.templates@generator)">
   <persistence version="9" />
   <languages>
     <use id="b401a680-8325-4110-8fd3-84331ff25bef" name="jetbrains.mps.lang.generator" version="4" />

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<solution name="com.specificlanguages.projectsync.logic" uuid="7eb68773-0c91-4dc5-a5a6-0fd3dd31f774" moduleVersion="0" compileInMPS="true">
+<solution name="com.spclngs.projsync.logic" uuid="7eb68773-0c91-4dc5-a5a6-0fd3dd31f774" moduleVersion="0" compileInMPS="true">
   <models>
     <modelRoot contentPath="${module}/lib" type="java_classes">
       <sourceRoot location="logic.jar" />
@@ -27,7 +27,7 @@
   <dependencyVersions>
     <module reference="3f233e7f-b8a6-46d2-a57f-795d56775243(Annotations)" version="0" />
     <module reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065(JDK)" version="0" />
-    <module reference="7eb68773-0c91-4dc5-a5a6-0fd3dd31f774(com.specificlanguages.projectsync.logic)" version="0" />
+    <module reference="7eb68773-0c91-4dc5-a5a6-0fd3dd31f774(com.spclngs.projsync.logic)" version="0" />
   </dependencyVersions>
 </solution>
 

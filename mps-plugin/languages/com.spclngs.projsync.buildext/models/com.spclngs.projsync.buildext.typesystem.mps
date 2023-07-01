@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model ref="r:c2efc59f-ffa2-4b76-9ead-44ec8fc6c8ba(com.specificlanguages.projectsync.buildext.typesystem)">
+<model ref="r:c2efc59f-ffa2-4b76-9ead-44ec8fc6c8ba(com.spclngs.projsync.buildext.typesystem)">
   <persistence version="9" />
   <languages>
     <use id="7a5dda62-9140-4668-ab76-d5ed1746f2b2" name="jetbrains.mps.lang.typesystem" version="5" />
@@ -9,7 +9,7 @@
   </languages>
   <imports>
     <import index="o3n2" ref="r:26eadcf0-f275-4e90-be37-e4432772a74d(jetbrains.mps.build.util)" />
-    <import index="3njg" ref="r:eadca9c5-6cd8-4ad8-84f3-0b28137040d9(com.specificlanguages.projectsync.buildext.structure)" />
+    <import index="3njg" ref="r:eadca9c5-6cd8-4ad8-84f3-0b28137040d9(com.spclngs.projsync.buildext.structure)" />
     <import index="wyt6" ref="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.lang(JDK/)" />
     <import index="95xo" ref="r:682764f9-ae55-4c0f-8223-7e504f7203ea(com.spclngs.projectconventions.buildext.check)" />
     <import index="lui2" ref="8865b7a8-5271-43d3-884c-6fd1d9cfdd34/java:org.jetbrains.mps.openapi.module(MPS.OpenAPI/)" />

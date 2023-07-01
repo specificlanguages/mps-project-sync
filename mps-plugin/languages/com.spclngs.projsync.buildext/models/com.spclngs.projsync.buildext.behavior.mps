@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model ref="r:1e2c310d-3aec-4658-8e8c-ca8096a57c2e(com.specificlanguages.projectsync.buildext.behavior)">
+<model ref="r:1e2c310d-3aec-4658-8e8c-ca8096a57c2e(com.spclngs.projsync.buildext.behavior)">
   <persistence version="9" />
   <languages>
     <use id="7866978e-a0f0-4cc7-81bc-4d213d9375e1" name="jetbrains.mps.lang.smodel" version="18" />

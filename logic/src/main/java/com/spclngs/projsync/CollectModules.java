@@ -1,4 +1,4 @@
-package com.specificlanguages.projectsync;
+package com.spclngs.projsync;
 
 import org.xml.sax.SAXException;
 

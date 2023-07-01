@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model ref="r:dab0419f-0ada-4377-9d5c-9c9cd420e76b(com.specificlanguages.projectsync.buildext.constraints)">
+<model ref="r:dab0419f-0ada-4377-9d5c-9c9cd420e76b(com.spclngs.projsync.buildext.constraints)">
   <persistence version="9" />
   <languages>
     <use id="5dae8159-ab99-46bb-a40d-0cee30ee7018" name="jetbrains.mps.lang.constraints.rules.kinds" version="0" />

@@ -2,9 +2,9 @@
 <project version="4">
   <component name="MPSProject">
     <projectModules>
-      <modulePath path="$PROJECT_DIR$/languages/com.specificlanguages.projectsync.buildext/com.specificlanguages.projectsync.buildext.mpl" folder="main" />
-      <modulePath path="$PROJECT_DIR$/solutions/com.specificlanguages.projectsync.build/com.specificlanguages.projectsync.build.msd" folder="main.build" />
-      <modulePath path="$PROJECT_DIR$/solutions/com.specificlanguages.projectsync.logic/com.specificlanguages.projectsync.logic.msd" folder="main" />
+      <modulePath path="$PROJECT_DIR$/languages/com.spclngs.projsync.buildext/com.spclngs.projsync.buildext.mpl" folder="main" />
+      <modulePath path="$PROJECT_DIR$/solutions/com.spclngs.projsync.build/com.spclngs.projsync.build.msd" folder="main.build" />
+      <modulePath path="$PROJECT_DIR$/solutions/com.spclngs.projsync.logic/com.spclngs.projsync.logic.msd" folder="main" />
     </projectModules>
   </component>
 </project>

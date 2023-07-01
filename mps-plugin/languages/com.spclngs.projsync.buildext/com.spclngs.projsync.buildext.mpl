@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<language namespace="com.specificlanguages.projectsync.buildext" uuid="4dafe081-e8e5-4580-a546-0ff88688fe77" languageVersion="0" moduleVersion="0">
+<language namespace="com.spclngs.projsync.buildext" uuid="4dafe081-e8e5-4580-a546-0ff88688fe77" languageVersion="0" moduleVersion="0">
   <models>
     <modelRoot contentPath="${module}" type="default">
       <sourceRoot location="models" />
@@ -12,7 +12,7 @@
   </facets>
   <accessoryModels />
   <generators>
-    <generator alias="main" namespace="com.specificlanguages.projectsync.buildext.generator" uuid="67e482a7-7524-481e-bbfe-0d65fe09e0a2">
+    <generator alias="main" namespace="com.spclngs.projsync.buildext.generator" uuid="67e482a7-7524-481e-bbfe-0d65fe09e0a2">
       <models>
         <modelRoot contentPath="${module}/generator" type="default">
           <sourceRoot location="templates" />
@@ -47,8 +47,8 @@
         <module reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065(JDK)" version="0" />
         <module reference="6ed54515-acc8-4d1e-a16c-9fd6cfe951ea(MPS.Core)" version="0" />
         <module reference="8865b7a8-5271-43d3-884c-6fd1d9cfdd34(MPS.OpenAPI)" version="0" />
-        <module reference="4dafe081-e8e5-4580-a546-0ff88688fe77(com.specificlanguages.projectsync.buildext)" version="0" />
-        <module reference="67e482a7-7524-481e-bbfe-0d65fe09e0a2(com.specificlanguages.projectsync.buildext.generator)" version="0" />
+        <module reference="4dafe081-e8e5-4580-a546-0ff88688fe77(com.spclngs.projsync.buildext)" version="0" />
+        <module reference="67e482a7-7524-481e-bbfe-0d65fe09e0a2(com.spclngs.projsync.buildext.generator)" version="0" />
         <module reference="798100da-4f0a-421a-b991-71f8c50ce5d2(jetbrains.mps.build)" version="0" />
         <module reference="698a8d22-a104-47a0-ba8d-10e3ec237f13(jetbrains.mps.build.workflow)" version="0" />
         <module reference="479c7a8c-02f9-43b5-9139-d910cb22f298(jetbrains.mps.core.xml)" version="0" />
@@ -65,7 +65,7 @@
     <dependency reexport="false">3f233e7f-b8a6-46d2-a57f-795d56775243(Annotations)</dependency>
     <dependency reexport="false">798100da-4f0a-421a-b991-71f8c50ce5d2(jetbrains.mps.build)</dependency>
     <dependency reexport="false">6ed54515-acc8-4d1e-a16c-9fd6cfe951ea(MPS.Core)</dependency>
-    <dependency reexport="false">7eb68773-0c91-4dc5-a5a6-0fd3dd31f774(com.specificlanguages.projectsync.logic)</dependency>
+    <dependency reexport="false">7eb68773-0c91-4dc5-a5a6-0fd3dd31f774(com.spclngs.projsync.logic)</dependency>
   </dependencies>
   <languageVersions>
     <language slang="l:f3061a53-9226-4cc5-a443-f952ceaf5816:jetbrains.mps.baseLanguage" version="11" />
@@ -107,8 +107,8 @@
     <module reference="6ed54515-acc8-4d1e-a16c-9fd6cfe951ea(MPS.Core)" version="0" />
     <module reference="8865b7a8-5271-43d3-884c-6fd1d9cfdd34(MPS.OpenAPI)" version="0" />
     <module reference="39983771-4e9b-401b-a1a9-1da6c777c843(com.fasterxml.jackson)" version="0" />
-    <module reference="4dafe081-e8e5-4580-a546-0ff88688fe77(com.specificlanguages.projectsync.buildext)" version="0" />
-    <module reference="7eb68773-0c91-4dc5-a5a6-0fd3dd31f774(com.specificlanguages.projectsync.logic)" version="0" />
+    <module reference="4dafe081-e8e5-4580-a546-0ff88688fe77(com.spclngs.projsync.buildext)" version="0" />
+    <module reference="7eb68773-0c91-4dc5-a5a6-0fd3dd31f774(com.spclngs.projsync.logic)" version="0" />
     <module reference="798100da-4f0a-421a-b991-71f8c50ce5d2(jetbrains.mps.build)" version="0" />
     <module reference="0cf935df-4699-4e9c-a132-fa109541cba3(jetbrains.mps.build.mps)" version="0" />
     <module reference="698a8d22-a104-47a0-ba8d-10e3ec237f13(jetbrains.mps.build.workflow)" version="0" />

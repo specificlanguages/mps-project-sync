@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model ref="r:3ec12387-afe1-46c2-bf87-6a2a7a7195ef(com.specificlanguages.projectsync.build)">
+<model ref="r:3ec12387-afe1-46c2-bf87-6a2a7a7195ef(com.spclngs.projsync.build)">
   <persistence version="9" />
   <languages>
     <use id="0cf935df-4699-4e9c-a132-fa109541cba3" name="jetbrains.mps.build.mps" version="7" />
@@ -142,7 +142,7 @@
   </registry>
   <node concept="1l3spW" id="5a927F2a$3h">
     <property role="2DA0ip" value="../.." />
-    <property role="TrG5h" value="com.specificlanguages.projectsync" />
+    <property role="TrG5h" value="com.spclngs.projsync" />
     <node concept="2sgV4H" id="5a927F2a$pO" role="1l3spa">
       <ref role="1l3spb" to="ffeo:3IKDaVZmzS6" resolve="mps" />
       <node concept="398BVA" id="5a927F2a$pW" role="2JcizS">
@@ -150,15 +150,15 @@
       </node>
     </node>
     <node concept="m$_wf" id="5a927F2a$3$" role="3989C9">
-      <property role="m$_wk" value="com.specificlanguages.projectsync" />
+      <property role="m$_wk" value="com.spclngs.projsync" />
       <node concept="3_J27D" id="5a927F2a$3A" role="m$_yQ">
         <node concept="3Mxwew" id="5a927F2a$3M" role="3MwsjC">
-          <property role="3MwjfP" value="com.specificlanguages.projectsync" />
+          <property role="3MwjfP" value="com.spclngs.projsync" />
         </node>
       </node>
       <node concept="3_J27D" id="5a927F2a$3C" role="m_cZH">
         <node concept="3Mxwew" id="5a927F2a$3O" role="3MwsjC">
-          <property role="3MwjfP" value="com.specificlanguages.projectsync" />
+          <property role="3MwjfP" value="com.spclngs.projsync" />
         </node>
       </node>
       <node concept="3_J27D" id="5a927F2a$3E" role="m$_w8">
@@ -172,7 +172,7 @@
         </node>
       </node>
       <node concept="m$f5U" id="5a927F2a$ut" role="m$_yh">
-        <ref role="m$f5T" node="5a927F2a$oK" resolve="com.specificlanguages.projectsync" />
+        <ref role="m$f5T" node="5a927F2a$oK" resolve="com.spclngs.projsync" />
       </node>
       <node concept="m$_yC" id="5a927F2a$uG" role="m$_yJ">
         <ref role="m$_y1" to="ffeo:4k71ibbKLe8" resolve="jetbrains.mps.core" />
@@ -182,18 +182,18 @@
       </node>
     </node>
     <node concept="2G$12M" id="5a927F2a$oK" role="3989C9">
-      <property role="TrG5h" value="com.specificlanguages.projectsync" />
+      <property role="TrG5h" value="com.spclngs.projsync" />
       <node concept="1E1JtA" id="5a927F2a$xD" role="2G$12L">
         <property role="BnDLt" value="true" />
-        <property role="TrG5h" value="com.specificlanguages.projectsync.build" />
+        <property role="TrG5h" value="com.spclngs.projsync.build" />
         <property role="3LESm3" value="9f416825-d38a-431b-8510-8fd7526a665c" />
         <node concept="55IIr" id="5a927F2a$xG" role="3LF7KH">
           <node concept="2Ry0Ak" id="5a927F2a$yP" role="iGT6I">
             <property role="2Ry0Am" value="solutions" />
             <node concept="2Ry0Ak" id="5a927F2a$z4" role="2Ry0An">
-              <property role="2Ry0Am" value="com.specificlanguages.projectsync.build" />
+              <property role="2Ry0Am" value="com.spclngs.projsync.build" />
               <node concept="2Ry0Ak" id="3Mew5L6eiRy" role="2Ry0An">
-                <property role="2Ry0Am" value="com.specificlanguages.projectsync.build.msd" />
+                <property role="2Ry0Am" value="com.spclngs.projsync.build.msd" />
               </node>
             </node>
           </node>
@@ -212,7 +212,7 @@
               <node concept="2Ry0Ak" id="3Mew5L6eiRA" role="iGT6I">
                 <property role="2Ry0Am" value="solutions" />
                 <node concept="2Ry0Ak" id="3Mew5L6eiRB" role="2Ry0An">
-                  <property role="2Ry0Am" value="com.specificlanguages.projectsync.build" />
+                  <property role="2Ry0Am" value="com.spclngs.projsync.build" />
                   <node concept="2Ry0Ak" id="3Mew5L6eiRC" role="2Ry0An">
                     <property role="2Ry0Am" value="models" />
                   </node>
@@ -226,16 +226,16 @@
         </node>
       </node>
       <node concept="1E1JtD" id="5a927F2a$qP" role="2G$12L">
-        <property role="TrG5h" value="com.specificlanguages.projectsync.buildext" />
+        <property role="TrG5h" value="com.spclngs.projsync.buildext" />
         <property role="3LESm3" value="4dafe081-e8e5-4580-a546-0ff88688fe77" />
         <property role="BnDLt" value="true" />
         <node concept="55IIr" id="5a927F2a$qS" role="3LF7KH">
           <node concept="2Ry0Ak" id="5a927F2a$ro" role="iGT6I">
             <property role="2Ry0Am" value="languages" />
             <node concept="2Ry0Ak" id="5a927F2a$rB" role="2Ry0An">
-              <property role="2Ry0Am" value="com.specificlanguages.projectsync.buildext" />
+              <property role="2Ry0Am" value="com.spclngs.projsync.buildext" />
               <node concept="2Ry0Ak" id="3Mew5L6eiRz" role="2Ry0An">
-                <property role="2Ry0Am" value="com.specificlanguages.projectsync.buildext.mpl" />
+                <property role="2Ry0Am" value="com.spclngs.projsync.buildext.mpl" />
               </node>
             </node>
           </node>
@@ -267,7 +267,7 @@
         </node>
         <node concept="1SiIV0" id="5a927F2a$s7" role="3bR37C">
           <node concept="3bR9La" id="5a927F2a$s8" role="1SiIV1">
-            <ref role="3bR37D" node="5a927F2a$p0" resolve="com.specificlanguages.projectsync.logic" />
+            <ref role="3bR37D" node="5a927F2a$p0" resolve="com.spclngs.projsync.logic" />
           </node>
         </node>
         <node concept="1BupzO" id="5a927F2a$sd" role="3bR31x">
@@ -279,7 +279,7 @@
               <node concept="2Ry0Ak" id="3Mew5L6eiRG" role="iGT6I">
                 <property role="2Ry0Am" value="languages" />
                 <node concept="2Ry0Ak" id="3Mew5L6eiRH" role="2Ry0An">
-                  <property role="2Ry0Am" value="com.specificlanguages.projectsync.buildext" />
+                  <property role="2Ry0Am" value="com.spclngs.projsync.buildext" />
                   <node concept="2Ry0Ak" id="3Mew5L6eiRI" role="2Ry0An">
                     <property role="2Ry0Am" value="models" />
                   </node>
@@ -297,7 +297,7 @@
           </node>
         </node>
         <node concept="1yeLz9" id="5a927F2a$si" role="1TViLv">
-          <property role="TrG5h" value="com.specificlanguages.projectsync.buildext.generator" />
+          <property role="TrG5h" value="com.spclngs.projsync.buildext.generator" />
           <property role="3LESm3" value="67e482a7-7524-481e-bbfe-0d65fe09e0a2" />
           <node concept="1BupzO" id="5a927F2a$so" role="3bR31x">
             <property role="3ZfqAx" value="generator/templates" />
@@ -308,7 +308,7 @@
                 <node concept="2Ry0Ak" id="3Mew5L6eiRM" role="iGT6I">
                   <property role="2Ry0Am" value="languages" />
                   <node concept="2Ry0Ak" id="3Mew5L6eiRN" role="2Ry0An">
-                    <property role="2Ry0Am" value="com.specificlanguages.projectsync.buildext" />
+                    <property role="2Ry0Am" value="com.spclngs.projsync.buildext" />
                     <node concept="2Ry0Ak" id="3Mew5L6eiRO" role="2Ry0An">
                       <property role="2Ry0Am" value="generator" />
                       <node concept="2Ry0Ak" id="3Mew5L6eiRP" role="2Ry0An">
@@ -330,7 +330,7 @@
               <node concept="2Ry0Ak" id="5a927F2a$tY" role="iGT6I">
                 <property role="2Ry0Am" value="languages" />
                 <node concept="2Ry0Ak" id="39$og7AQa72" role="2Ry0An">
-                  <property role="2Ry0Am" value="com.specificlanguages.projectsync.buildext" />
+                  <property role="2Ry0Am" value="com.spclngs.projsync.buildext" />
                 </node>
               </node>
             </node>
@@ -342,16 +342,16 @@
       </node>
       <node concept="1E1JtA" id="5a927F2a$p0" role="2G$12L">
         <property role="BnDLt" value="true" />
-        <property role="TrG5h" value="com.specificlanguages.projectsync.logic" />
+        <property role="TrG5h" value="com.spclngs.projsync.logic" />
         <property role="3LESm3" value="7eb68773-0c91-4dc5-a5a6-0fd3dd31f774" />
         <property role="2GAjPV" value="true" />
         <node concept="55IIr" id="5a927F2a$p3" role="3LF7KH">
           <node concept="2Ry0Ak" id="5a927F2a$p9" role="iGT6I">
             <property role="2Ry0Am" value="solutions" />
             <node concept="2Ry0Ak" id="5a927F2a$pe" role="2Ry0An">
-              <property role="2Ry0Am" value="com.specificlanguages.projectsync.logic" />
+              <property role="2Ry0Am" value="com.spclngs.projsync.logic" />
               <node concept="2Ry0Ak" id="3Mew5L6eiR$" role="2Ry0An">
-                <property role="2Ry0Am" value="com.specificlanguages.projectsync.logic.msd" />
+                <property role="2Ry0Am" value="com.spclngs.projsync.logic.msd" />
               </node>
             </node>
           </node>
@@ -373,7 +373,7 @@
               <node concept="2Ry0Ak" id="3Mew5L6eiRT" role="iGT6I">
                 <property role="2Ry0Am" value="solutions" />
                 <node concept="2Ry0Ak" id="3Mew5L6eiRU" role="2Ry0An">
-                  <property role="2Ry0Am" value="com.specificlanguages.projectsync.logic" />
+                  <property role="2Ry0Am" value="com.spclngs.projsync.logic" />
                   <node concept="2Ry0Ak" id="3Mew5L6eiRV" role="2Ry0An">
                     <property role="2Ry0Am" value="lib" />
                     <node concept="2Ry0Ak" id="3Mew5L6eiRW" role="2Ry0An">
@@ -392,7 +392,7 @@
     <node concept="55IIr" id="5a927F2a$3i" role="auvoZ" />
     <node concept="1l3spV" id="5a927F2a$3j" role="1l3spN">
       <node concept="m$_wl" id="5a927F2a$v0" role="39821P">
-        <ref role="m_rDy" node="5a927F2a$3$" resolve="com.specificlanguages.projectsync" />
+        <ref role="m_rDy" node="5a927F2a$3$" resolve="com.spclngs.projsync" />
         <node concept="398223" id="5a927F2a$vt" role="39821P">
           <node concept="3_J27D" id="5a927F2a$vv" role="Nbhlr">
             <node concept="3Mxwew" id="5a927F2a$vC" role="3MwsjC">
@@ -404,7 +404,7 @@
               <node concept="2Ry0Ak" id="5a927F2a$wp" role="iGT6I">
                 <property role="2Ry0Am" value="solutions" />
                 <node concept="2Ry0Ak" id="5a927F2a$wq" role="2Ry0An">
-                  <property role="2Ry0Am" value="com.specificlanguages.projectsync.logic" />
+                  <property role="2Ry0Am" value="com.spclngs.projsync.logic" />
                   <node concept="2Ry0Ak" id="5a927F2a$wr" role="2Ry0An">
                     <property role="2Ry0Am" value="lib" />
                   </node>
